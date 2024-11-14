@@ -1,0 +1,5 @@
+!!Some C- expression =!
+/*/** / !
+*T/his is /* /a c*om/me*nt*  * //
+*
+other things**

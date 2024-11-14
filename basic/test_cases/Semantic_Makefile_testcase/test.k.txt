@@ -1,0 +1,15 @@
+int main(){
+int a = 1;
+int b = 2;
+int c; // Declare c outside of the if statement
+int d; // Declare d outside of the if statement
+
+if (a) {
+    if (b) {
+        c = 0; // Assign a value to c or perform some action
+    }
+} else {
+    d = 0; // Assign a value to d or perform some action
+}
+return 0;
+}

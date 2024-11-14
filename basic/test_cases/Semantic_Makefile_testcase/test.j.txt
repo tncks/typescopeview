@@ -1,0 +1,10 @@
+void main(void){
+int a=1;
+int b=2;
+int c=3;
+if(a)
+    if (b) 
+        c = a; 
+else 
+    c = b;
+}
